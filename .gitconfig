@@ -1,3 +1,6 @@
+[user]
+	name = boycaught
+	email = github.robot@gmail.com
 [alias]
 	c = commit -am
 	up = pull
@@ -8,8 +11,8 @@
 [color]
 	ui = always
 [core]
-	excludesfile = ~/.gitignore
-	attributesfile = ~/.gitattributes
+	excludesfile = ~/dotfiles/.gitignore
+	attributesfile = ~/dotfiles/.gitattributes
 [color "branch"]
 	current = yellow reverse
 	local = yellow
@@ -40,5 +43,5 @@
 
 # Any GitHub repo with my username should be checked out r/w by default
 # http://rentzsch.tumblr.com/post/564806957/public-but-hackable-git-submodules
-[url "git@github.com:paulirish/"]
-  insteadOf = "git://github.com/paulirish/"
+[url "git@github.com:boycaught/"]
+  insteadOf = "git://github.com/boycaught/"
