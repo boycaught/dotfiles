@@ -88,8 +88,8 @@ alias trimcopy="tr -d '\n' | pbcopy"
 alias cleanup="find . -name '*.DS_Store' -type f -ls -delete"
 
 # Shortcuts
-alias g="git"
-alias v="vim"
+#alias g="git"
+#alias v="vim"
 
 # File size
 alias fs="stat -f \"%z bytes\""
@@ -117,3 +117,6 @@ done
 alias stfu="osascript -e 'set volume output muted true'"
 alias pumpitup="osascript -e 'set volume 10'"
 alias hax="growlnotify -a 'Activity Monitor' 'System error' -m 'WTF R U DOIN'"
+
+# LAG STUFF
+alias subpacks="cd '/Users/greenla/Library/Application Support/Sublime Text 2/Packages'"
