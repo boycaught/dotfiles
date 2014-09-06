@@ -78,7 +78,7 @@ I recommend getting a [`.jshintrc`](https://github.com/jshint/node-jshint/blob/m
 * `.inputrc` - config for bash readline
 
 #### application version control
-* `.appversins` - config for handling application version numbers in one place 
+* `.appversions` - config for handling application version numbers in one place 
 
 ## Installation
 
