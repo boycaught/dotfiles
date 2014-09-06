@@ -1,4 +1,4 @@
-# Paul's dotfiles.
+# .LAG's dotfiles.
 
 [mathias's readme](https://github.com/mathiasbynens/dotfiles/) is awesome. go read it.
 
@@ -77,6 +77,8 @@ I recommend getting a [`.jshintrc`](https://github.com/jshint/node-jshint/blob/m
 
 * `.inputrc` - config for bash readline
 
+#### application version control
+* `.appversins` - config for handling application version numbers in one place 
 
 ## Installation
 
