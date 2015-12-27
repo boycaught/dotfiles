@@ -6,8 +6,8 @@ export v_GRADLE="2.10"
 export v_GO="1.5.2"
 export v_GROOVY="2.4.5"
 export v_JENKINS="1.643"
-export v_JDK="1.8.0_20"
-export v_JRE="1.8.0_20"
+export v_JDK="1.8.0_66"
+export v_JRE="1.8.0_66"
 export v_JRUBY="9.0.4.0"
 export v_JYTHON="2.7.0"
 export v_LIBTOOL="2.4.6"
@@ -28,4 +28,4 @@ export v_BOGUS="0.69.0"
 #export v_RUBY=1.9.3-p484"
 
 #EOF
-#Last update: 12/25/2015
+#Last update: 12/26/2015
