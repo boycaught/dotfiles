@@ -68,6 +68,7 @@ I recommend getting a [`.jshintrc`](https://github.com/jshint/node-jshint/blob/m
 * `install-deps.sh` - random apps i need installed
 * `.osx` - run on a fresh osx machine
 * `.brew` - homebrew intialization
+* `.updates` - homebrew and meteor.js initialization
 
 #### git, brah
 * `.git`
@@ -83,7 +84,7 @@ I recommend getting a [`.jshintrc`](https://github.com/jshint/node-jshint/blob/m
 ## Installation
 
 ```bash
-git clone https://github.com/paulirish/dotfiles.git && cd dotfiles && ./sync.sh
+git clone https://github.com/boycaught/dotfiles.git && cd dotfiles && ./sync.sh
 ```
 
 To update later on, just run the sync again.

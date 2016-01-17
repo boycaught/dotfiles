@@ -1,6 +1,6 @@
 [user]
 	name = boycaught
-	email = github.robot@gmail.com
+	email = github.bot@gmail.com
 [alias]
 	c = commit -am
 	up = pull
