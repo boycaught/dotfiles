@@ -33,10 +33,10 @@ export v_RUBY="1.9.2-p320"
 export v_TOMCAT="8.0.32"
 export v_WGET="1.17.1"
 export v_WPCLI="0.23.0"
-export v_YOUTUBE_DL="2016.03.25"
+export v_YOUTUBE_DL="2016.03.27"
 
 export v_BOGUS="24.7.365"
 #export v_RUBY=1.9.3-p484"
 
-#Last update: 3/25/2016
+#Last update: 3/29/2016
 #EOF
